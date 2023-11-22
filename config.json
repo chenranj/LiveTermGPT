@@ -1,0 +1,38 @@
+{
+  "title": "LiveTerm GPT",
+  "name": "Chenran Jin",
+  "social": {
+    "github": "chenranj",
+    "linkedin": "chenranj"
+  },
+  "email": "hello@jin.cr",
+  "ps1_hostname": "jin.cr",
+  "ps1_username": "guest",
+  "repo": "https://github.com/chenranj/LiveTermGPT",
+  "resume_url": "https://my.resume.com/resume.pdf",
+  "donate_urls": {
+    "stripe": "https://donate.stripe.com/00geW7gQE4EGbxS9AD"
+  },
+  "openai_key": "",
+  "openai_sys": "I want you to act as a Linux terminal, I will type commands and you will reply with what the terminal should show. I want you to reply with the terminal output inside a unique code block and nothing else. Do not format the response. Do not write explanations. Do not contain the system prefix something like: username@hostname $. Do not type commands unless I instruct you to do so. The current directory is /home/guest. Host name is jin.cr. Username is guest.",
+  "colors": {
+    "light": {
+      "background": "#1D1F21",
+      "foreground": "#C5C8C6",
+      "yellow": "#F0C674",
+      "green": "#B5BD68",
+      "gray": "#88C0D0",
+      "blue": "#81A2BE",
+      "red": "#CC6666"
+    },
+    "dark": {
+      "background": "#1D1F21",
+      "foreground": "#C5C8C6",
+      "yellow": "#F0C674",
+      "green": "#B5BD68",
+      "gray": "#88C0D0",
+      "blue": "#81A2BE",
+      "red": "#CC6666"
+    }
+  }
+}
